@@ -7,7 +7,7 @@ it is recommended to add fastwatch to your PATH
 
 # usage 
 open command line 
-if fastwatch is not in your PATH, first navigate to it
+if fastwatch is not in your PATH, first navigate to it\n
 command: watch {anime, movie, tv} title [-s] [-e] [-d]
 -d is used for anime to grab the english dubbed show
 by not specifying a season or episode, the next episode will automatically be played
