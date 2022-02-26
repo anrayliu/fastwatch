@@ -1,4 +1,5 @@
-Fastwatch is a program that's used with command line arguments.
+Fastwatch is a program that's used with command line arguments. It finds a watch link
+for the given video and opens it in a browser. As such, an adblock is recommended.
 
 List of arguments:
 
