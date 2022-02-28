@@ -18,3 +18,13 @@ the next episode will be played. Similarly, if source is "last", the next episod
 most recently watched show will be played.
 
 Note: Include the season into the title for anime (e.g. "attack on titan 2")
+
+More examples:
+
+watch anime overlord -e 10 
+watch anime "overlord II" -e 2
+watch anime overlord 
+watch anime "attack on titan" --dub
+watch movie "red notice"
+watch tv "black mirror" --season 1 --episode 1
+watch tv "black mirror"
